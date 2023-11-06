@@ -6,13 +6,13 @@ Team: *QField*
 
 Members-
 
-Nasir Ali
-Subhashis Kar
-Aditya Choudhary
-Dheeraj Kumar
-Amit Modhwadia 
-Alfia Naaz Shaikh
-Hatice Boyar
+1. Nasir Ali
+2. Subhashis Kar
+3. Aditya Choudhary
+4. Dheeraj Kumar
+5. Amit Modhwadia 
+6. Alfia Naaz Shaikh
+7. Hatice Boyar
 
 
 
